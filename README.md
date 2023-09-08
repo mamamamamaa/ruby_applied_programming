@@ -4,7 +4,7 @@ This repository contains a collection of Ruby programming tasks, each represente
 
 ## Task Branches
 
-1. **Task 1** - Branch: [task-1](https://github.com/mamamamamaa/ruby_applied_programming.git)
+1. **Task 1** - Branch: [task-1](https://github.com/mamamamamaa/ruby_applied_programming/tree/task-1)
     - Description: 
    ```
     Зробити невелику скрипт гру "кам'яні ножиці папір".
