@@ -15,6 +15,17 @@ This repository contains a collection of Ruby programming tasks, each represente
     input --> ruby game.rb Stone Paper
     output --> You lose
    ```
+2. **Task 2** - Branch: [task-2](https://github.com/mamamamamaa/ruby_applied_programming/tree/task-2)
+    - Description: 
+   ```
+    Зробити невеликий скрипт 
+    На вхід передаємо математичний вираз у звичному нам вигляді
+    На виході бачимо його у RPN
+
+    EX: 
+    input --> 2 + 1 × 4
+    output --> 2 1 4 * +
+   ```
 
 ## Getting Started
 
