@@ -26,6 +26,11 @@ This repository contains a collection of Ruby programming tasks, each represente
     input --> 2 + 1 × 4
     output --> 2 1 4 * +
    ```
+3. **Task 3** - Branch: [task-2](https://github.com/mamamamamaa/ruby_applied_programming/tree/task-3)
+   - Description:
+   ```
+    Надати приклад паттерну Prototype
+   ```
 
 ## Getting Started
 
