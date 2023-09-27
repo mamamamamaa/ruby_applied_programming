@@ -8,10 +8,6 @@ class Weapon
   end
 
   def get_prototype
-    @date_of_bought = deep_copy(@date_of_bought)
-    @scope = deep_copy(@scope)
-    @scope.name_of_scope = deep_copy(self)
-
     deep_copy(self)
   end
 
@@ -28,8 +24,8 @@ class Scope
   end
 end
 
-
-prototype_weapon = Weapon.new(30, Time.now, Scope.new("Eotech"))
+scope = Scope.new("Eotech");
+prototype_weapon = Weapon.new(30, Time.now, scope)
 clone_weapon = prototype_weapon.get_prototype
 
 puts(prototype_weapon == clone_weapon)
