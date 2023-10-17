@@ -71,6 +71,12 @@ This repository contains a collection of Ruby programming tasks, each represente
     Діапазон введення: 1 <= n < 4000
     4 має бути представлено як IV.
    ```
+6. **Task 6** - Branch: [task-6](https://github.com/mamamamamaa/ruby_applied_programming/tree/task-6)
+   - Description:
+   ```
+    Реалізуйте метод, який повертатиме true, якщо заданий аргумент строки є IPv4-адресою - чотири числа (0-255), розділені крапками.
+    Він повинен приймати лише адреси в канонічному представленні, тобто без ведучих нулів, пропусків тощо.
+   ```
 
 ## Getting Started
 
