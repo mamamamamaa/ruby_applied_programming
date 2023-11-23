@@ -83,10 +83,15 @@ This repository contains a collection of Ruby programming tasks, each represente
     3. Напишіть програму, яка приймає список чисел і сортує їх у порядку зростання або спадання за вибором користувача. 
     4. Напишіть програму, яка генерує випадковий пароль заданої довжини для користувача.
    ```
-6. **Task 7** - Branch: [task-7](https://github.com/mamamamamaa/ruby_applied_programming/tree/task-7)
+8. **Task 7** - Branch: [task-7](https://github.com/mamamamamaa/ruby_applied_programming/tree/task-7)
    - Description:
    ```
     За допомогою гему nokogiri спарсити назви шпиталів у csv файл
+   ```
+9. **KR 2** - Branch: [kr2](https://github.com/mamamamamaa/ruby_applied_programming/tree/kr2)
+   - Description:
+   ```
+    3. Напишіть програму, у якій два потоки виводять числа від 1 до 10. Організуйте синхронізацію, щоб числа виводилися по черзі: спочатку першого потоку, потім із другого, тощо.
    ```
 
 ## Getting Started
