@@ -93,6 +93,7 @@ This repository contains a collection of Ruby programming tasks, each represente
    ```
     3. Напишіть програму, у якій два потоки виводять числа від 1 до 10. Організуйте синхронізацію, щоб числа виводилися по черзі: спочатку першого потоку, потім із другого, тощо.
    ```
+10. **EXAM** - Branch: [exam](https://github.com/mamamamamaa/ruby_applied_programming/tree/exam)
 
 ## Getting Started
 
